@@ -1,0 +1,152 @@
+[
+  {
+    "from": "DEL",
+    "to": "CHE",
+    "flight_number": "RS-957",
+    "departure": "14:20",
+    "arrival": "16:22",
+    "duration": "2h 2m",
+    "instructions": "Free Meals\/Snacks",
+    "stops": 2,
+    "airline": {
+      "id": 1103,
+      "name": "Spicejet",
+      "logo": "https:\/\/api.androidhive.info\/json\/images\/spicejet.png"
+    }
+  },
+  {
+    "from": "IND",
+    "to": "AUS",
+    "flight_number": "LQ-349",
+    "departure": "23:47",
+    "arrival": "02:18",
+    "duration": "21h 29m",
+    "instructions": "Free Meals\/Snacks",
+    "stops": 1,
+    "airline": {
+      "id": 1104,
+      "name": "Go Air",
+      "logo": "https:\/\/api.androidhive.info\/json\/images\/goair.png"
+    }
+  },
+  {
+    "from": "DEL",
+    "to": "IND",
+    "flight_number": "EY-700",
+    "departure": "17:29",
+    "arrival": "19:34",
+    "duration": "2h 5m",
+    "instructions": "Free Meals\/Snacks",
+    "stops": 1,
+    "airline": {
+      "id": 1103,
+      "name": "Spicejet",
+      "logo": "https:\/\/api.androidhive.info\/json\/images\/spicejet.png"
+    }
+  },
+  {
+    "from": "DEL",
+    "to": "AUS",
+    "flight_number": "X4-438",
+    "departure": "10:39",
+    "arrival": "13:13",
+    "duration": "2h 34m",
+    "instructions": "Free Meals\/Snacks",
+    "stops": 2,
+    "airline": {
+      "id": 1104,
+      "name": "Go Air",
+      "logo": "https:\/\/api.androidhive.info\/json\/images\/goair.png"
+    }
+  },
+  {
+    "from": "POR",
+    "to": "CHE",
+    "flight_number": "4J-484",
+    "departure": "10:06",
+    "arrival": "12:09",
+    "duration": "2h 3m",
+    "instructions": "Partially Refundable",
+    "stops": 1,
+    "airline": {
+      "id": 1103,
+      "name": "Spicejet",
+      "logo": "https:\/\/api.androidhive.info\/json\/images\/spicejet.png"
+    }
+  },
+  {
+    "from": "DEL",
+    "to": "SEA",
+    "flight_number": "A5-527",
+    "departure": "04:02",
+    "arrival": "06:24",
+    "duration": "2h 22m",
+    "instructions": "",
+    "stops": 1,
+    "airline": {
+      "id": 1102,
+      "name": "Air India",
+      "logo": "https:\/\/api.androidhive.info\/json\/images\/airindia.png"
+    }
+  },
+  {
+    "from": "DEL",
+    "to": "WAS",
+    "flight_number": "IK-955",
+    "departure": "17:37",
+    "arrival": "20:11",
+    "duration": "2h 34m",
+    "instructions": "Non Refundable",
+    "stops": 1,
+    "airline": {
+      "id": 1103,
+      "name": "Spicejet",
+      "logo": "https:\/\/api.androidhive.info\/json\/images\/spicejet.png"
+    }
+  },
+  {
+    "from": "DEL",
+    "to": "CHE",
+    "flight_number": "JN-514",
+    "departure": "04:34",
+    "arrival": "07:12",
+    "duration": "2h 38m",
+    "instructions": "Non Refundable",
+    "stops": 1,
+    "airline": {
+      "id": 1104,
+      "name": "Go Air",
+      "logo": "https:\/\/api.androidhive.info\/json\/images\/goair.png"
+    }
+  },
+  {
+    "from": "OAK",
+    "to": "CHE",
+    "flight_number": "7W-892",
+    "departure": "22:14",
+    "arrival": "00:22",
+    "duration": "21h 52m",
+    "instructions": "",
+    "stops": 2,
+    "airline": {
+      "id": 1103,
+      "name": "Spicejet",
+      "logo": "https:\/\/api.androidhive.info\/json\/images\/spicejet.png"
+    }
+  },
+  {
+    "from": "SFO",
+    "to": "DEL",
+    "flight_number": "4T-670",
+    "departure": "13:51",
+    "arrival": "16:50",
+    "duration": "2h 59m",
+    "instructions": "Free Meals\/Snacks",
+    "stops": 1,
+    "airline": {
+      "id": 1101,
+      "name": "IndiGo",
+      "logo": "https:\/\/api.androidhive.info\/json\/images\/indigo.png"
+    }
+  }
+]
