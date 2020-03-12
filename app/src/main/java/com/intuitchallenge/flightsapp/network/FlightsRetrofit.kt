@@ -22,5 +22,5 @@ class FlightsRetrofit {
     }
 
     fun getFlightsInfo() = flightService.getFlightInformation()
-    fun getPriceInfo() = flightService.getPriceInformation()
+    fun getPriceInfo(path : String) = flightService.getPriceInformation(path)
 }
